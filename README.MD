@@ -3,7 +3,7 @@
 处理器   英特尔 Core i5-10500 @ 3.10GHz 六核 带核显</br>
 主板    微星 MAG B560M MORTAR WIFI (MS-7D17)</br>
 主显卡  英特尔 UHD Graphics 630  Radeon RX 560 4 GB</br>
-内存    32 GB ( DDR4 2667MHz ) </br>
+内存    七彩虹，32 GB ( DDR4 2667MHz ) </br>
 主硬盘   海康威视 nvme  HS-SSD-CC500/1TB </br>
 显示器   冠捷 AOC2790 U2790B ( 27 英寸 ) 带喇叭 </br>
 声卡    瑞昱 @ 英特尔 High Definition Audio 控制器 </br>
